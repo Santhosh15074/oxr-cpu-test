@@ -1,0 +1,13 @@
+# Personal test documents and their results (passport = personal data)
+passport/
+
+# Images and generated outputs
+*.jpg
+*.jpeg
+*.png
+*_ocr.md
+*_ocr.json
+*.html
+
+__pycache__/
+*.pyc
